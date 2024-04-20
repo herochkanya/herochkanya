@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @herochkanya
+- 👋 Hi, I’m @herochkanya, 14 years.
 - 👀 I’m interested in writing bots and games.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
