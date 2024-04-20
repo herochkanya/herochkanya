@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my tg @herofthisworld
 - 😄 Pronouns: monsieur Yuri.
-- ⚡ Fun fact: I drinl real Kyiv kvass!
+- ⚡ Fun fact: I drink real Kyiv kvass!
 
 <!---
 herochkanya/herochkanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
