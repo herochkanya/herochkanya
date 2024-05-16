@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @herochkanya, 14 years.
+- 👋 Hi, I’m @herochkanya, 15 years.
 - 👀 I’m interested in writing bots and games.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and Godot.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my tg @herofthisworld
+- 📫 How to reach me - my tg: @herofthisworld
 - 😄 Pronouns: monsieur Yuri.
 - ⚡ Fun fact: I drink real Kyiv kvass!
 
