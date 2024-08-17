@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @herochkanya, 15 years.
+- 👋 Hi, I’m poor boy, 15 years.
 - 👀 I’m interested in writing bots, games, the backend and the frontend of sites.
 - 🌱 I’m currently learning Python, GdScript, JavaScript and CSS.
 - 💞️ I’m looking to collaborate on ...
