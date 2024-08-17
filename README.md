@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, GdScript, JavaScript and CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -
-my tg: @not_main_hero
-my discord: @not_main_hero
+  my tg: @not_main_hero /
+  my discord: @not_main_hero
 - 😄 Pronouns: monsieur Yuri, or just hero.
 - ⚡ Fun fact: I drink real Kyiv kvass!
 
