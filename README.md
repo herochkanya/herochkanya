@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @herochkanya, 15 years.
-- 👀 I’m interested in writing bots and games.
-- 🌱 I’m currently learning python and Godot.
+- 👀 I’m interested in writing bots, games, the backend and the frontend of sites.
+- 🌱 I’m currently learning Python, GdScript, JavaScript and CSS.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - my tg: @herofthisworld
-- 😄 Pronouns: monsieur Yuri.
+- 📫 How to reach me -
+my tg: @not_main_hero
+my discord: @not_main_hero
+- 😄 Pronouns: monsieur Yuri, or just hero.
 - ⚡ Fun fact: I drink real Kyiv kvass!
 
 <!---
