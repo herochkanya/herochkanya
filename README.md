@@ -8,7 +8,7 @@
 <p>- ⚡ Fun fact: I drink real Kyiv kvass!</p>
 <h2>Links:</h2>
 <div style="display: flex;">
-    <a href="https://www.instagram.com/notmainhero/" target="_blank">
+    <a href="https://www.instagram.com/herochka_nya/" target="_blank">
         <img src="https://github.com/user-attachments/assets/89e9ef03-8f2a-44e9-afff-b3f44676e19f" 
              alt="Instagram Icon" width="50">
     </a>
