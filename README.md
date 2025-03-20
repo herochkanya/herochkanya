@@ -1,14 +1,26 @@
-- 👋 Hi, I’m poor boy, 15 years.
-- 👀 I’m interested in writing bots, games, the backend and the frontend of sites.
-- 🌱 I’m currently learning Python, GdScript, JavaScript and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -
-  my tg: @not_main_hero |
-  my discord: @not_main_hero
-- 😄 Pronouns: monsieur Yuri, or just hero.
-- ⚡ Fun fact: I drink real Kyiv kvass!
-
-<!---
-herochkanya/herochkanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>About</h1>
+<p>👋 Hi, I’m poor boy, 15 years.</p>
+<p>- 👀 I’m interested in writing bots, the backend and the frontend of sites.</p>
+<p>- 🌱 I’m currently learning aiogram, django, flet, js.</p>
+<p>- 💞️ I’m looking to collaborate on small projects, maybe even indie proj.</p>
+<p>- 📫 How to reach me - tg: a_spectator_from_the_darkness</p>
+<p>- 😄 Pronouns: interactive and determined person.</p>
+<p>- ⚡ Fun fact: I drink real Kyiv kvass!</p>
+<h2>Links:</h2>
+<div style="display: flex;">
+    <a href="https://www.instagram.com/notmainhero/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/89e9ef03-8f2a-44e9-afff-b3f44676e19f" 
+             alt="Instagram Icon" width="50">
+    </a>
+    <b>Instagram</b>
+    <a href="https://t.me/a_spectator_from_the_darkness" target="_blank">
+        <img src="https://github.com/user-attachments/assets/abcb4347-8ea1-4e05-b56e-4d9b513b2c58" 
+             alt="Telegram Logo" width="50">
+    </a>
+    <b>Telegram</b>
+    <a href="mailto:herofthisworld@gmail.com">
+        <img src="https://github.com/user-attachments/assets/e8c182d3-df2e-4d7d-bb84-013f631956ed" 
+             alt="Email Logo" width="50">
+    </a>
+    <b>Gmail</b>
+</div>
