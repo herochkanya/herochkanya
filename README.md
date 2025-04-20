@@ -3,7 +3,7 @@
 <p>- 👀 I’m interested in writing bots, the backend and the frontend of sites.</p>
 <p>- 🌱 I’m currently learning aiogram, django, flet, js.</p>
 <p>- 💞️ I’m looking to collaborate on small projects, maybe even indie proj.</p>
-<p>- 📫 How to reach me - tg: a_spectator_from_the_darkness</p>
+<p>- 📫 How to reach me - tg: via link below.</p>
 <p>- 😄 Pronouns: interactive and determined person.</p>
 <p>- ⚡ Fun fact: I drink real Kyiv kvass!</p>
 <h2>Links:</h2>
