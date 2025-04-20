@@ -18,9 +18,4 @@
              alt="Telegram Logo" width="50">
     </a>
     <b>Telegram</b>
-    <a href="mailto:herofthisworld@gmail.com">
-        <img src="https://github.com/user-attachments/assets/e8c182d3-df2e-4d7d-bb84-013f631956ed" 
-             alt="Email Logo" width="50">
-    </a>
-    <b>Gmail</b>
 </div>
