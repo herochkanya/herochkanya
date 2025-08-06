@@ -1,7 +1,7 @@
 <h1>About</h1>
 <p>👋 Hi, I’m poor boy, 16 years.</p>
 <p>- 👀 I’m interested in writing bots, the backend and the frontend of sites.</p>
-<p>- 🌱 I’m currently learning aiogram, django, flet, js, kotlin.</p>
+<p>- 🌱 I’m currently learning aiogram, django, js, kotlin.</p>
 <p>- 💞️ I’m looking to collaborate on small projects, maybe even indie proj.</p>
 <p>- 😄 Pronouns: interactive and determined person.</p>
 <p>- ⚡ Fun fact: I drink real Kyiv kvass!</p>
