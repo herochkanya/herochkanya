@@ -16,9 +16,6 @@
     <a href="https://t.me/nobody_from_nothing" target="_blank" style="text-decoration: none;">
         <img src="https://github.com/user-attachments/assets/abcb4347-8ea1-4e05-b56e-4d9b513b2c58" alt="Telegram" width="50">
     </a>
-    <a href="https://github.com/<твій-username>" target="_blank" style="text-decoration: none;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50">
-    </a>
 </div>
 
 ---
@@ -35,7 +32,7 @@
 
 ## Portfolio / Projects
 
-- [GitHub Repositories](https://github.com/<твій-username>) — code projects.  
+- [GitHub Repositories](https://github.com/herochkanya) — code projects.  
 - [Poems & Writing](https://www.notion.so/2165bd025eaf80efbed3f29c7bfbc51f?source=copy_link) — my creative work.  
 
 ---
