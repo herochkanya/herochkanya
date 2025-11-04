@@ -4,19 +4,13 @@
 
 - 👀 I’m interested in writing bots, backend and frontend development, and building small tools.  
 - 🌱 I’m currently learning **Aiogram**, **Django**, **JavaScript**, **Kotlin**.  
-- 💞️ I’m looking to collaborate on **indie / small projects**.  
+- 💞️ I’m looking to collaborate on **small projects** but only with **круті поцики срайона**.  
 - 😄 Pronouns: interactive and determined person.  
 - ⚡ Fun fact: I drink real Kyiv kvass!
 
 ---
 
 ## Links
-
-<div style="display: flex; align-items: center; gap: 15px;">
-    <a href="https://t.me/nobody_from_nothing" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/user-attachments/assets/abcb4347-8ea1-4e05-b56e-4d9b513b2c58" alt="Telegram" width="50">
-    </a>
-</div>
 
 ---
 
