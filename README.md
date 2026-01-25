@@ -1,6 +1,6 @@
 # About
 
-👋 Hi, I’m a shy boy, 16 years old, from **Kostopil**.
+👋 Hi, I’m a shy boy, 16 years old, from **Ukraine**.
 
 - 👀 I’m interested in writing bots, backend and frontend development, and building small tools.  
 - 🌱 I’m currently learning **Aiogram**, **Django**, **JavaScript**, **Kotlin**.  
