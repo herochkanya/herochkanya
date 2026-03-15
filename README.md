@@ -22,7 +22,5 @@
 ## Portfolio / Projects
 
 - [GitHub Repositories](https://github.com/herochkanya) — code projects.  
-- [Poems & Writing](https://crystalline-pencil-1ce.notion.site/2165bd025eaf80efbed3f29c7bfbc51f) — my creative work.  
-
 ---
 
