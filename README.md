@@ -4,8 +4,7 @@
 
 - 👀 I’m interested in writing bots, backend and frontend development, and building small tools.  
 - 🌱 I’m currently learning **Aiogram**, **Django**, **JavaScript**, **Kotlin**.  
-- 💞️ I’m looking to collaborate on **small projects** but only with **укроїномовні люди**.  
-- 😄 Pronouns: fan of stupid.  
+- 💞️ I’m looking to collaborate on **small projects** but only with **укроїномовні люди**.    
 - ⚡ Fun fact: I drink real Kyiv kvass!
 
 ---
