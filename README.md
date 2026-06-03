@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm herochkanya!</h1>
 <p align="center">
-  <strong>Backend / Frontend Developer • 16 y.o. from Kostopil 🇺🇦 • Open-Source Builder</strong>
+  <strong>Backend / Frontend Developer • 17 y.o. from Kostopil 🇺🇦 • Open-Source Builder</strong>
 </p>
 <p align="center">
   Python • Aiogram • Django • Flet • JavaScript • Kotlin
@@ -23,18 +23,10 @@
 
 ---
 
-### About me
-- 👀 My name is **Юрко**.
-- 🛠 Working with **Python** (Aiogram, Django, Flet).
-- 🤝 Looking to collaborate on **small projects** with **укрики** only.
-- ⚡ Fun fact: I drink real Kyiv kvass!
-
----
-
 ### Stack
 - **Languages:** Python, JavaScript, Kotlin, Українська
 - **Frameworks:** Aiogram, Django, Flet
-- **Database:** SQLite :(
+- **Database:** SQLite, json :(
 
 ---
 
