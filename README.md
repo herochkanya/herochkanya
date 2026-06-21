@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0057B7&height=200&section=header&text=Herochkanya&fontSize=90&fontColor=FFD700" alt="Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm herochkanya!</h1>
 <p align="center">
   <strong>Backend / Frontend Developer • 17 y.o. from Kostopil 🇺🇦 • Open-Source Builder</strong>
 </p>
@@ -20,13 +19,6 @@
 <p align="center">
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=herochkanya&layout=compact&theme=radical" />
 </p>
-
----
-
-### Stack
-- **Languages:** Python, JavaScript, Kotlin, Українська
-- **Frameworks:** Aiogram, Django, Flet
-- **Database:** SQLite, json :(
 
 ---
 
