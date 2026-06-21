@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend / Frontend Developer • 17 y.o. from Kostopil 🇺🇦 • Open-Source Builder</strong>
+  <strong>Backend / Frontend Developer • 17 y.o. • Open-Source Builder</strong>
 </p>
 <p align="center">
   Python • Aiogram • Django • Flet • JavaScript • Kotlin
