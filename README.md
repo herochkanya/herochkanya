@@ -1,24 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0057B7&height=200&section=header&text=Herochkanya&fontSize=90&fontColor=FFD700" alt="Banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Backend / Frontend Developer • 17 y.o. • Open-Source Builder</strong>
-</p>
-<p align="center">
-  Python • Aiogram • Django • Flet • JavaScript
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=3000&color=1A3320&center=true&vcenter=true&width=400&lines=Herochkanya;Backend%20%2F%20Frontend%20Developer%3B17%20y.o.%3BOpen-Source%20Builder" alt="Typing SVG" />
 
----
+  <br><br>
 
-<h3 align="center">Activity</h3>
-<p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=herochkanya&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=herochkanya&layout=compact&theme=radical" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/python-1A3320?style=flat-square" alt="Python">
+    <img src="https://img.shields.io/badge/aiogram-1A3320?style=flat-square" alt="Aiogram">
+    <img src="https://img.shields.io/badge/django-1A3320?style=flat-square" alt="Django">
+    <img src="https://img.shields.io/badge/flet-1A3320?style=flat-square" alt="Flet">
+    <img src="https://img.shields.io/badge/javascript-1A3320?style=flat-square" alt="JavaScript">
+  </p>
 
----
+  <p>
+    <a href="https://t.me/This_username_is_already_taken_c">
+      <img src="https://img.shields.io/badge/telegram-1A3320?style=flat-square&logo=telegram&logoColor=white"/>
+    </a>
+  </p>
 
-<p align="center">
-  <i>Kostopil, Ukraine 🇺🇦</i>
-</p>
+</div>
