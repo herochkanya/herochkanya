@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=3000&color=1A3320&center=true&vcenter=true&width=400&lines=Herochkanya;Backend%20%2F%20Frontend%20Developer%3B17%20y.o.%3BOpen-Source%20Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=3000&color=1A3320&center=true&vcenter=true&width=400&lines=Yuriy;Backend%20%2F%20Frontend%20Developer%3B17%20y.o.%3BOpen-Source%20Builder" alt="Typing SVG" />
 
-  <br><br>
+  <br>
 
   <p>
     <img src="https://img.shields.io/badge/python-1A3320?style=flat-square" alt="Python">
@@ -17,5 +17,5 @@
       <img src="https://img.shields.io/badge/telegram-1A3320?style=flat-square&logo=telegram&logoColor=white"/>
     </a>
   </p>
-
+  
 </div>
